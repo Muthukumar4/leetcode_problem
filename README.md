@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0009-palindrome-number](https://github.com/Muthukumar4/leetcode_problem/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/Muthukumar4/leetcode_problem/tree/master/0268-missing-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Muthukumar4/leetcode_problem/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2238-a-number-after-a-double-reversal](https://github.com/Muthukumar4/leetcode_problem/tree/master/2238-a-number-after-a-double-reversal) |
 ## Simulation
 |  |
 | ------- |
