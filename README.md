@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Muthukumar4/leetcode_problem/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2058-concatenation-of-array](https://github.com/Muthukumar4/leetcode_problem/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Muthukumar4/leetcode_problem/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/Muthukumar4/leetcode_problem/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Muthukumar4/leetcode_problem/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [3221-find-the-peaks](https://github.com/Muthukumar4/leetcode_problem/tree/master/3221-find-the-peaks) |
 ## Bit Manipulation
