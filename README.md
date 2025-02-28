@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/Muthukumar4/leetcode_problem/tree/master/2058-concatenation-of-array) |
+| [2886-faulty-keyboard](https://github.com/Muthukumar4/leetcode_problem/tree/master/2886-faulty-keyboard) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,4 +66,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0953-reverse-only-letters](https://github.com/Muthukumar4/leetcode_problem/tree/master/0953-reverse-only-letters) |
+| [2886-faulty-keyboard](https://github.com/Muthukumar4/leetcode_problem/tree/master/2886-faulty-keyboard) |
 <!---LeetCode Topics End-->
