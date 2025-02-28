@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0628-maximum-product-of-three-numbers](https://github.com/Muthukumar4/leetcode_problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0792-binary-search](https://github.com/Muthukumar4/leetcode_problem/tree/master/0792-binary-search) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Muthukumar4/leetcode_problem/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1791-richest-customer-wealth](https://github.com/Muthukumar4/leetcode_problem/tree/master/1791-richest-customer-wealth) |
 | [2058-concatenation-of-array](https://github.com/Muthukumar4/leetcode_problem/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Muthukumar4/leetcode_problem/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Muthukumar4/leetcode_problem/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -93,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Muthukumar4/leetcode_problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/Muthukumar4/leetcode_problem/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
