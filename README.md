@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Muthukumar4/leetcode_problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Muthukumar4/leetcode_problem/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Muthukumar4/leetcode_problem/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/Muthukumar4/leetcode_problem/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Muthukumar4/leetcode_problem/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Muthukumar4/leetcode_problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Muthukumar4/leetcode_problem/tree/master/0136-single-number) |
@@ -93,9 +94,14 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Muthukumar4/leetcode_problem/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Muthukumar4/leetcode_problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Matrix
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/Muthukumar4/leetcode_problem/tree/master/1791-richest-customer-wealth) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Muthukumar4/leetcode_problem/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
