@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/Muthukumar4/leetcode_problem/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/Muthukumar4/leetcode_problem/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Muthukumar4/leetcode_problem/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/Muthukumar4/leetcode_problem/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Muthukumar4/leetcode_problem/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Muthukumar4/leetcode_problem/tree/master/0283-move-zeroes) |
 | [0792-binary-search](https://github.com/Muthukumar4/leetcode_problem/tree/master/0792-binary-search) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Muthukumar4/leetcode_problem/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Muthukumar4/leetcode_problem/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Muthukumar4/leetcode_problem/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Muthukumar4/leetcode_problem/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Muthukumar4/leetcode_problem/tree/master/0268-missing-number) |
 ## Enumeration
 |  |
