@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/Muthukumar4/leetcode_problem/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Muthukumar4/leetcode_problem/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Muthukumar4/leetcode_problem/tree/master/0349-intersection-of-two-arrays) |
+| [0485-max-consecutive-ones](https://github.com/Muthukumar4/leetcode_problem/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/Muthukumar4/leetcode_problem/tree/master/0792-binary-search) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Muthukumar4/leetcode_problem/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2058-concatenation-of-array](https://github.com/Muthukumar4/leetcode_problem/tree/master/2058-concatenation-of-array) |
