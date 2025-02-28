@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Muthukumar4/leetcode_problem/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Muthukumar4/leetcode_problem/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/Muthukumar4/leetcode_problem/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Muthukumar4/leetcode_problem/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/Muthukumar4/leetcode_problem/tree/master/0792-binary-search) |
@@ -53,4 +54,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Muthukumar4/leetcode_problem/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Muthukumar4/leetcode_problem/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
