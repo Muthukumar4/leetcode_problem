@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0136-single-number](https://github.com/Muthukumar4/leetcode_problem/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Muthukumar4/leetcode_problem/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/Muthukumar4/leetcode_problem/tree/master/0792-binary-search) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Muthukumar4/leetcode_problem/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2058-concatenation-of-array](https://github.com/Muthukumar4/leetcode_problem/tree/master/2058-concatenation-of-array) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Muthukumar4/leetcode_problem/tree/master/2199-two-furthest-houses-with-different-colors) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Muthukumar4/leetcode_problem/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/Muthukumar4/leetcode_problem/tree/master/0792-binary-search) |
 ## Sorting
 |  |
 | ------- |
