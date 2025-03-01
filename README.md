@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/Muthukumar4/leetcode_problem/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Muthukumar4/leetcode_problem/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Muthukumar4/leetcode_problem/tree/master/0628-maximum-product-of-three-numbers) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Muthukumar4/leetcode_problem/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Muthukumar4/leetcode_problem/tree/master/0792-binary-search) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Muthukumar4/leetcode_problem/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/Muthukumar4/leetcode_problem/tree/master/1791-richest-customer-wealth) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/Muthukumar4/leetcode_problem/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Muthukumar4/leetcode_problem/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Muthukumar4/leetcode_problem/tree/master/0349-intersection-of-two-arrays) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Muthukumar4/leetcode_problem/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Muthukumar4/leetcode_problem/tree/master/0792-binary-search) |
 ## Sorting
 |  |
