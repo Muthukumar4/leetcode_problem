@@ -2,7 +2,9 @@ class Solution {
     public int[] searchRange(int[] nums, int target) {
         int[] res={-1,-1};
         res[0]=search(nums,target,true);
+        if(res[0]!=-1){
         res[1]=search(nums,target,false);
+        }
         return res;
         
     }
