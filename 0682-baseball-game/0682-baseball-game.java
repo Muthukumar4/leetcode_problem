@@ -33,15 +33,15 @@ class Solution {
         static boolean isNumeric (String str){
         boolean number=false;
         number=isNegative(str);
-        if(Character.isDigit(str.charAt(0))) {
+        if(Character.isDigit(str.charAt(0)) && number==false) {
             number = true;
         }
+
         return number;
         }
         static boolean isNegative(String str){
         if(str.charAt(0)=='-'){
             return str.length() >1 && Character.isDigit(str.charAt(1));
-
         }
         return false;
         }
