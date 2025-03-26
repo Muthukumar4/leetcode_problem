@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Muthukumar4/leetcode_problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Muthukumar4/leetcode_problem/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Muthukumar4/leetcode_problem/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Muthukumar4/leetcode_problem/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Muthukumar4/leetcode_problem/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Muthukumar4/leetcode_problem/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Muthukumar4/leetcode_problem/tree/master/0345-reverse-vowels-of-a-string) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Muthukumar4/leetcode_problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/Muthukumar4/leetcode_problem/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Muthukumar4/leetcode_problem/tree/master/0345-reverse-vowels-of-a-string) |
 | [0953-reverse-only-letters](https://github.com/Muthukumar4/leetcode_problem/tree/master/0953-reverse-only-letters) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Muthukumar4/leetcode_problem/tree/master/2137-final-value-of-variable-after-performing-operations) |
