@@ -1,20 +1,18 @@
 class Solution {
     public boolean isPalindrome(String str) {
-         String str1="";
-        str=str.toLowerCase();
-        for (int i = 0; i <str.length() ; i++) {
-            if(Character.isLetterOrDigit(str.charAt(i))){
-             str1+= String.valueOf(str.charAt(i));
-            }
+        if(str=="null" || str.isEmpty()){
+            return false;
         }
-       
-        return ispaldro(str1);
-    }
-    static boolean ispaldro(String str){
-        int l=0;
+          int l=0;
         int r=str.length()-1;
         while (l<r){
-            if(str.charAt(l)!=str.charAt(r)){
+            while (l<r && !Character.isLetterOrDigit(str.charAt(l))){
+                l++;
+            }
+            while (l<r && !Character.isLetterOrDigit(str.charAt(r))){
+                r--;
+            }
+            if(Character.toLowerCase(str.charAt(l))!=Character.toLowerCase(str.charAt(r))){
                 return false;
             }
             l++;
