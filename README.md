@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0682-baseball-game](https://github.com/Muthukumar4/leetcode_problem/tree/master/0682-baseball-game) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Muthukumar4/leetcode_problem/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Muthukumar4/leetcode_problem/tree/master/0792-binary-search) |
+| [0861-flipping-an-image](https://github.com/Muthukumar4/leetcode_problem/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Muthukumar4/leetcode_problem/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Muthukumar4/leetcode_problem/tree/master/1019-squares-of-a-sorted-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Muthukumar4/leetcode_problem/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0136-single-number](https://github.com/Muthukumar4/leetcode_problem/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Muthukumar4/leetcode_problem/tree/master/0268-missing-number) |
+| [0861-flipping-an-image](https://github.com/Muthukumar4/leetcode_problem/tree/master/0861-flipping-an-image) |
 ## Math
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Muthukumar4/leetcode_problem/tree/master/0682-baseball-game) |
+| [0861-flipping-an-image](https://github.com/Muthukumar4/leetcode_problem/tree/master/0861-flipping-an-image) |
 | [2058-concatenation-of-array](https://github.com/Muthukumar4/leetcode_problem/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Muthukumar4/leetcode_problem/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2886-faulty-keyboard](https://github.com/Muthukumar4/leetcode_problem/tree/master/2886-faulty-keyboard) |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/Muthukumar4/leetcode_problem/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Muthukumar4/leetcode_problem/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Muthukumar4/leetcode_problem/tree/master/0349-intersection-of-two-arrays) |
+| [0861-flipping-an-image](https://github.com/Muthukumar4/leetcode_problem/tree/master/0861-flipping-an-image) |
 | [0953-reverse-only-letters](https://github.com/Muthukumar4/leetcode_problem/tree/master/0953-reverse-only-letters) |
 | [1019-squares-of-a-sorted-array](https://github.com/Muthukumar4/leetcode_problem/tree/master/1019-squares-of-a-sorted-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Muthukumar4/leetcode_problem/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -135,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0861-flipping-an-image](https://github.com/Muthukumar4/leetcode_problem/tree/master/0861-flipping-an-image) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Muthukumar4/leetcode_problem/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/Muthukumar4/leetcode_problem/tree/master/1791-richest-customer-wealth) |
 ## Divide and Conquer
