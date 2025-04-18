@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Muthukumar4/leetcode_problem/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/Muthukumar4/leetcode_problem/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Muthukumar4/leetcode_problem/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Muthukumar4/leetcode_problem/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Muthukumar4/leetcode_problem/tree/master/0628-maximum-product-of-three-numbers) |
@@ -168,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Muthukumar4/leetcode_problem/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Muthukumar4/leetcode_problem/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Muthukumar4/leetcode_problem/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
