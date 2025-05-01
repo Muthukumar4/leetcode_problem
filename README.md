@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Muthukumar4/leetcode_problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Muthukumar4/leetcode_problem/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Muthukumar4/leetcode_problem/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Muthukumar4/leetcode_problem/tree/master/0268-missing-number) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Muthukumar4/leetcode_problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Muthukumar4/leetcode_problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Muthukumar4/leetcode_problem/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Muthukumar4/leetcode_problem/tree/master/0345-reverse-vowels-of-a-string) |
@@ -190,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Muthukumar4/leetcode_problem/tree/master/0078-subsets) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Muthukumar4/leetcode_problem/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
