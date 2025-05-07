@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/Muthukumar4/leetcode_problem/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Muthukumar4/leetcode_problem/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Muthukumar4/leetcode_problem/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Muthukumar4/leetcode_problem/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Muthukumar4/leetcode_problem/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Muthukumar4/leetcode_problem/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Muthukumar4/leetcode_problem/tree/master/0078-subsets) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Muthukumar4/leetcode_problem/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Muthukumar4/leetcode_problem/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Muthukumar4/leetcode_problem/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Muthukumar4/leetcode_problem/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Muthukumar4/leetcode_problem/tree/master/0268-missing-number) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Muthukumar4/leetcode_problem/tree/master/0048-rotate-image) |
 | [0861-flipping-an-image](https://github.com/Muthukumar4/leetcode_problem/tree/master/0861-flipping-an-image) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Muthukumar4/leetcode_problem/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/Muthukumar4/leetcode_problem/tree/master/1791-richest-customer-wealth) |
