@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/Muthukumar4/leetcode_problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Muthukumar4/leetcode_problem/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Muthukumar4/leetcode_problem/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Muthukumar4/leetcode_problem/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Muthukumar4/leetcode_problem/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Muthukumar4/leetcode_problem/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Muthukumar4/leetcode_problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/Muthukumar4/leetcode_problem/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Muthukumar4/leetcode_problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Muthukumar4/leetcode_problem/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Muthukumar4/leetcode_problem/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Muthukumar4/leetcode_problem/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Muthukumar4/leetcode_problem/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Muthukumar4/leetcode_problem/tree/master/0628-maximum-product-of-three-numbers) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Muthukumar4/leetcode_problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Muthukumar4/leetcode_problem/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Muthukumar4/leetcode_problem/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Muthukumar4/leetcode_problem/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Muthukumar4/leetcode_problem/tree/master/0345-reverse-vowels-of-a-string) |
 | [0953-reverse-only-letters](https://github.com/Muthukumar4/leetcode_problem/tree/master/0953-reverse-only-letters) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Muthukumar4/leetcode_problem/tree/master/2137-final-value-of-variable-after-performing-operations) |
