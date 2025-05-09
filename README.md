@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Muthukumar4/leetcode_problem/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Muthukumar4/leetcode_problem/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Muthukumar4/leetcode_problem/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [2737-row-with-maximum-ones](https://github.com/Muthukumar4/leetcode_problem/tree/master/2737-row-with-maximum-ones) |
 | [3221-find-the-peaks](https://github.com/Muthukumar4/leetcode_problem/tree/master/3221-find-the-peaks) |
 ## Bit Manipulation
 |  |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0861-flipping-an-image](https://github.com/Muthukumar4/leetcode_problem/tree/master/0861-flipping-an-image) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Muthukumar4/leetcode_problem/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/Muthukumar4/leetcode_problem/tree/master/1791-richest-customer-wealth) |
+| [2737-row-with-maximum-ones](https://github.com/Muthukumar4/leetcode_problem/tree/master/2737-row-with-maximum-ones) |
 ## Divide and Conquer
 |  |
 | ------- |
