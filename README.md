@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/Muthukumar4/leetcode_problem/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Muthukumar4/leetcode_problem/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Muthukumar4/leetcode_problem/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/Muthukumar4/leetcode_problem/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Muthukumar4/leetcode_problem/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Muthukumar4/leetcode_problem/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Muthukumar4/leetcode_problem/tree/master/0088-merge-sorted-array) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Muthukumar4/leetcode_problem/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Muthukumar4/leetcode_problem/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/Muthukumar4/leetcode_problem/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Muthukumar4/leetcode_problem/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Muthukumar4/leetcode_problem/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Muthukumar4/leetcode_problem/tree/master/0349-intersection-of-two-arrays) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0048-rotate-image](https://github.com/Muthukumar4/leetcode_problem/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Muthukumar4/leetcode_problem/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/Muthukumar4/leetcode_problem/tree/master/0074-search-a-2d-matrix) |
 | [0861-flipping-an-image](https://github.com/Muthukumar4/leetcode_problem/tree/master/0861-flipping-an-image) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Muthukumar4/leetcode_problem/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/Muthukumar4/leetcode_problem/tree/master/1791-richest-customer-wealth) |
