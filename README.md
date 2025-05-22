@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0628-maximum-product-of-three-numbers](https://github.com/Muthukumar4/leetcode_problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Muthukumar4/leetcode_problem/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Muthukumar4/leetcode_problem/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [2083-three-divisors](https://github.com/Muthukumar4/leetcode_problem/tree/master/2083-three-divisors) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Muthukumar4/leetcode_problem/tree/master/2238-a-number-after-a-double-reversal) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Muthukumar4/leetcode_problem/tree/master/2288-count-operations-to-obtain-zero) |
 ## Simulation
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Enumeration
 |  |
 | ------- |
+| [2083-three-divisors](https://github.com/Muthukumar4/leetcode_problem/tree/master/2083-three-divisors) |
 | [3221-find-the-peaks](https://github.com/Muthukumar4/leetcode_problem/tree/master/3221-find-the-peaks) |
 ## Greedy
 |  |
@@ -256,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Muthukumar4/leetcode_problem/tree/master/0070-climbing-stairs) |
+## Number Theory
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/Muthukumar4/leetcode_problem/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
