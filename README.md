@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0345-reverse-vowels-of-a-string](https://github.com/Muthukumar4/leetcode_problem/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Muthukumar4/leetcode_problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0953-reverse-only-letters](https://github.com/Muthukumar4/leetcode_problem/tree/master/0953-reverse-only-letters) |
+| [1205-defanging-an-ip-address](https://github.com/Muthukumar4/leetcode_problem/tree/master/1205-defanging-an-ip-address) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Muthukumar4/leetcode_problem/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Muthukumar4/leetcode_problem/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Muthukumar4/leetcode_problem/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
