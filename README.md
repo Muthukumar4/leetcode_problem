@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0162-find-peak-element](https://github.com/Muthukumar4/leetcode_problem/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Muthukumar4/leetcode_problem/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Muthukumar4/leetcode_problem/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Muthukumar4/leetcode_problem/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Muthukumar4/leetcode_problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Muthukumar4/leetcode_problem/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Muthukumar4/leetcode_problem/tree/master/0240-search-a-2d-matrix-ii) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0050-powx-n](https://github.com/Muthukumar4/leetcode_problem/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Muthukumar4/leetcode_problem/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Muthukumar4/leetcode_problem/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Muthukumar4/leetcode_problem/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Muthukumar4/leetcode_problem/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Muthukumar4/leetcode_problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Muthukumar4/leetcode_problem/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Muthukumar4/leetcode_problem/tree/master/0204-count-primes) |
 | [2083-three-divisors](https://github.com/Muthukumar4/leetcode_problem/tree/master/2083-three-divisors) |
 | [3221-find-the-peaks](https://github.com/Muthukumar4/leetcode_problem/tree/master/3221-find-the-peaks) |
 ## Greedy
@@ -261,5 +264,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Muthukumar4/leetcode_problem/tree/master/0204-count-primes) |
 | [2083-three-divisors](https://github.com/Muthukumar4/leetcode_problem/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
