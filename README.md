@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Muthukumar4/leetcode_problem/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Muthukumar4/leetcode_problem/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Muthukumar4/leetcode_problem/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [2819-remove-trailing-zeros-from-a-string](https://github.com/Muthukumar4/leetcode_problem/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2886-faulty-keyboard](https://github.com/Muthukumar4/leetcode_problem/tree/master/2886-faulty-keyboard) |
 ## Dynamic Programming
 |  |
