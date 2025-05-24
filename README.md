@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Muthukumar4/leetcode_problem/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Muthukumar4/leetcode_problem/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2737-row-with-maximum-ones](https://github.com/Muthukumar4/leetcode_problem/tree/master/2737-row-with-maximum-ones) |
+| [3194-find-words-containing-character](https://github.com/Muthukumar4/leetcode_problem/tree/master/3194-find-words-containing-character) |
 | [3221-find-the-peaks](https://github.com/Muthukumar4/leetcode_problem/tree/master/3221-find-the-peaks) |
 ## Bit Manipulation
 |  |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Muthukumar4/leetcode_problem/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/Muthukumar4/leetcode_problem/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2886-faulty-keyboard](https://github.com/Muthukumar4/leetcode_problem/tree/master/2886-faulty-keyboard) |
+| [3194-find-words-containing-character](https://github.com/Muthukumar4/leetcode_problem/tree/master/3194-find-words-containing-character) |
 ## Dynamic Programming
 |  |
 | ------- |
