@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0050-powx-n](https://github.com/Muthukumar4/leetcode_problem/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Muthukumar4/leetcode_problem/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Muthukumar4/leetcode_problem/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Muthukumar4/leetcode_problem/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Muthukumar4/leetcode_problem/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Muthukumar4/leetcode_problem/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Muthukumar4/leetcode_problem/tree/master/0628-maximum-product-of-three-numbers) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/Muthukumar4/leetcode_problem/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Muthukumar4/leetcode_problem/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Muthukumar4/leetcode_problem/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Muthukumar4/leetcode_problem/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Muthukumar4/leetcode_problem/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Muthukumar4/leetcode_problem/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Muthukumar4/leetcode_problem/tree/master/0268-missing-number) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0125-valid-palindrome](https://github.com/Muthukumar4/leetcode_problem/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Muthukumar4/leetcode_problem/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Muthukumar4/leetcode_problem/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Muthukumar4/leetcode_problem/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Muthukumar4/leetcode_problem/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Muthukumar4/leetcode_problem/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Muthukumar4/leetcode_problem/tree/master/0345-reverse-vowels-of-a-string) |
