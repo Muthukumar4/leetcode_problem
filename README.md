@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0145-binary-tree-postorder-traversal](https://github.com/Muthukumar4/leetcode_problem/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Muthukumar4/leetcode_problem/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Muthukumar4/leetcode_problem/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Muthukumar4/leetcode_problem/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Muthukumar4/leetcode_problem/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/Muthukumar4/leetcode_problem/tree/master/0682-baseball-game) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Muthukumar4/leetcode_problem/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Muthukumar4/leetcode_problem/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Muthukumar4/leetcode_problem/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Muthukumar4/leetcode_problem/tree/master/0387-first-unique-character-in-a-string) |
 ## Union Find
 |  |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0155-min-stack](https://github.com/Muthukumar4/leetcode_problem/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Muthukumar4/leetcode_problem/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Muthukumar4/leetcode_problem/tree/master/0232-implement-queue-using-stacks) |
 ## Tree
 |  |
 | ------- |
