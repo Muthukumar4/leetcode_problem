@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0043-multiply-strings](https://github.com/Muthukumar4/leetcode_problem/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Muthukumar4/leetcode_problem/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Muthukumar4/leetcode_problem/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Muthukumar4/leetcode_problem/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/Muthukumar4/leetcode_problem/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Muthukumar4/leetcode_problem/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Muthukumar4/leetcode_problem/tree/master/0345-reverse-vowels-of-a-string) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0118-pascals-triangle](https://github.com/Muthukumar4/leetcode_problem/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Muthukumar4/leetcode_problem/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Muthukumar4/leetcode_problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/Muthukumar4/leetcode_problem/tree/master/0131-palindrome-partitioning) |
 ## Matrix
 |  |
 | ------- |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0046-permutations](https://github.com/Muthukumar4/leetcode_problem/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Muthukumar4/leetcode_problem/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Muthukumar4/leetcode_problem/tree/master/0078-subsets) |
+| [0131-palindrome-partitioning](https://github.com/Muthukumar4/leetcode_problem/tree/master/0131-palindrome-partitioning) |
 ## Sliding Window
 |  |
 | ------- |
