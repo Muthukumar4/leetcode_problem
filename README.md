@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0078-subsets](https://github.com/Muthukumar4/leetcode_problem/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Muthukumar4/leetcode_problem/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Muthukumar4/leetcode_problem/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Muthukumar4/leetcode_problem/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Muthukumar4/leetcode_problem/tree/master/0371-sum-of-two-integers) |
 | [0861-flipping-an-image](https://github.com/Muthukumar4/leetcode_problem/tree/master/0861-flipping-an-image) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/Muthukumar4/leetcode_problem/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Muthukumar4/leetcode_problem/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Muthukumar4/leetcode_problem/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/Muthukumar4/leetcode_problem/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Muthukumar4/leetcode_problem/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Muthukumar4/leetcode_problem/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/Muthukumar4/leetcode_problem/tree/master/0415-add-strings) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0021-merge-two-sorted-lists](https://github.com/Muthukumar4/leetcode_problem/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Muthukumar4/leetcode_problem/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Muthukumar4/leetcode_problem/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Muthukumar4/leetcode_problem/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Muthukumar4/leetcode_problem/tree/master/0234-palindrome-linked-list) |
 ## Backtracking
 |  |
