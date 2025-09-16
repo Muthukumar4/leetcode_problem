@@ -360,4 +360,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0102-binary-tree-level-order-traversal](https://github.com/Muthukumar4/leetcode_problem/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Muthukumar4/leetcode_problem/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Muthukumar4/leetcode_problem/tree/master/0637-average-of-levels-in-binary-tree) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Muthukumar4/leetcode_problem/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
