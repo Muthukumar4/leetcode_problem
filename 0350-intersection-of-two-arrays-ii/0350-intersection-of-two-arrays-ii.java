@@ -19,7 +19,7 @@ class Solution {
                 j++;
             }
          }
-int[] arr = list.stream().mapToInt(Integer::intValue).toArray();
-return arr;
+return list.stream().mapToInt(Integer::intValue).toArray();
+
     }
 }
