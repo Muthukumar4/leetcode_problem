@@ -19,7 +19,12 @@ class Solution {
                 j++;
             }
          }
-return list.stream().mapToInt(Integer::intValue).toArray();
-
+          int[] output = new int[list.size()];
+        int k = 0;
+        while(k < list.size()){
+            output[k] = list.get(k);
+            k++;
+        }
+        return output;
     }
 }
