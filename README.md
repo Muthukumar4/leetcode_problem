@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/Muthukumar4/leetcode_problem/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Muthukumar4/leetcode_problem/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Muthukumar4/leetcode_problem/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Muthukumar4/leetcode_problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Muthukumar4/leetcode_problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Muthukumar4/leetcode_problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Muthukumar4/leetcode_problem/tree/master/0485-max-consecutive-ones) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/Muthukumar4/leetcode_problem/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Muthukumar4/leetcode_problem/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Muthukumar4/leetcode_problem/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Muthukumar4/leetcode_problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Muthukumar4/leetcode_problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Muthukumar4/leetcode_problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Binary Search
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0240-search-a-2d-matrix-ii](https://github.com/Muthukumar4/leetcode_problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Muthukumar4/leetcode_problem/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Muthukumar4/leetcode_problem/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Muthukumar4/leetcode_problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Muthukumar4/leetcode_problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Muthukumar4/leetcode_problem/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Muthukumar4/leetcode_problem/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/Muthukumar4/leetcode_problem/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Muthukumar4/leetcode_problem/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Muthukumar4/leetcode_problem/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Muthukumar4/leetcode_problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Muthukumar4/leetcode_problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Muthukumar4/leetcode_problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [1019-squares-of-a-sorted-array](https://github.com/Muthukumar4/leetcode_problem/tree/master/1019-squares-of-a-sorted-array) |
@@ -179,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0344-reverse-string](https://github.com/Muthukumar4/leetcode_problem/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Muthukumar4/leetcode_problem/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Muthukumar4/leetcode_problem/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Muthukumar4/leetcode_problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0861-flipping-an-image](https://github.com/Muthukumar4/leetcode_problem/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/Muthukumar4/leetcode_problem/tree/master/0908-middle-of-the-linked-list) |
 | [0953-reverse-only-letters](https://github.com/Muthukumar4/leetcode_problem/tree/master/0953-reverse-only-letters) |
