@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Muthukumar4/leetcode_problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Muthukumar4/leetcode_problem/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Muthukumar4/leetcode_problem/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Muthukumar4/leetcode_problem/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Muthukumar4/leetcode_problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/Muthukumar4/leetcode_problem/tree/master/0682-baseball-game) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Muthukumar4/leetcode_problem/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/Muthukumar4/leetcode_problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Muthukumar4/leetcode_problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Muthukumar4/leetcode_problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Muthukumar4/leetcode_problem/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -376,4 +378,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0175-combine-two-tables](https://github.com/Muthukumar4/leetcode_problem/tree/master/0175-combine-two-tables) |
 | [0577-employee-bonus](https://github.com/Muthukumar4/leetcode_problem/tree/master/0577-employee-bonus) |
 | [0620-not-boring-movies](https://github.com/Muthukumar4/leetcode_problem/tree/master/0620-not-boring-movies) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Muthukumar4/leetcode_problem/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
