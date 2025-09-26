@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Muthukumar4/leetcode_problem/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Muthukumar4/leetcode_problem/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Muthukumar4/leetcode_problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Muthukumar4/leetcode_problem/tree/master/0027-remove-element) |
@@ -172,10 +173,12 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Muthukumar4/leetcode_problem/tree/master/0011-container-with-most-water) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Muthukumar4/leetcode_problem/tree/master/2199-two-furthest-houses-with-different-colors) |
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Muthukumar4/leetcode_problem/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Muthukumar4/leetcode_problem/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Muthukumar4/leetcode_problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Muthukumar4/leetcode_problem/tree/master/0027-remove-element) |
