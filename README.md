@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0908-middle-of-the-linked-list](https://github.com/Muthukumar4/leetcode_problem/tree/master/0908-middle-of-the-linked-list) |
 | [0953-reverse-only-letters](https://github.com/Muthukumar4/leetcode_problem/tree/master/0953-reverse-only-letters) |
 | [1019-squares-of-a-sorted-array](https://github.com/Muthukumar4/leetcode_problem/tree/master/1019-squares-of-a-sorted-array) |
+| [2128-reverse-prefix-of-word](https://github.com/Muthukumar4/leetcode_problem/tree/master/2128-reverse-prefix-of-word) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Muthukumar4/leetcode_problem/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Muthukumar4/leetcode_problem/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## String
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0953-reverse-only-letters](https://github.com/Muthukumar4/leetcode_problem/tree/master/0953-reverse-only-letters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Muthukumar4/leetcode_problem/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/Muthukumar4/leetcode_problem/tree/master/1205-defanging-an-ip-address) |
+| [2128-reverse-prefix-of-word](https://github.com/Muthukumar4/leetcode_problem/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Muthukumar4/leetcode_problem/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Muthukumar4/leetcode_problem/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Muthukumar4/leetcode_problem/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0234-palindrome-linked-list](https://github.com/Muthukumar4/leetcode_problem/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/Muthukumar4/leetcode_problem/tree/master/0682-baseball-game) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Muthukumar4/leetcode_problem/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [2128-reverse-prefix-of-word](https://github.com/Muthukumar4/leetcode_problem/tree/master/2128-reverse-prefix-of-word) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
