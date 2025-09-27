@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Muthukumar4/leetcode_problem/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Muthukumar4/leetcode_problem/tree/master/2288-count-operations-to-obtain-zero) |
 | [2886-faulty-keyboard](https://github.com/Muthukumar4/leetcode_problem/tree/master/2886-faulty-keyboard) |
+| [3811-reverse-degree-of-a-string](https://github.com/Muthukumar4/leetcode_problem/tree/master/3811-reverse-degree-of-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/Muthukumar4/leetcode_problem/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2886-faulty-keyboard](https://github.com/Muthukumar4/leetcode_problem/tree/master/2886-faulty-keyboard) |
 | [3194-find-words-containing-character](https://github.com/Muthukumar4/leetcode_problem/tree/master/3194-find-words-containing-character) |
+| [3811-reverse-degree-of-a-string](https://github.com/Muthukumar4/leetcode_problem/tree/master/3811-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
