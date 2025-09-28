@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2083-three-divisors](https://github.com/Muthukumar4/leetcode_problem/tree/master/2083-three-divisors) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Muthukumar4/leetcode_problem/tree/master/2238-a-number-after-a-double-reversal) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Muthukumar4/leetcode_problem/tree/master/2288-count-operations-to-obtain-zero) |
+| [2541-sum-of-number-and-its-reverse](https://github.com/Muthukumar4/leetcode_problem/tree/master/2541-sum-of-number-and-its-reverse) |
 ## Simulation
 |  |
 | ------- |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0204-count-primes](https://github.com/Muthukumar4/leetcode_problem/tree/master/0204-count-primes) |
 | [2083-three-divisors](https://github.com/Muthukumar4/leetcode_problem/tree/master/2083-three-divisors) |
+| [2541-sum-of-number-and-its-reverse](https://github.com/Muthukumar4/leetcode_problem/tree/master/2541-sum-of-number-and-its-reverse) |
 | [3221-find-the-peaks](https://github.com/Muthukumar4/leetcode_problem/tree/master/3221-find-the-peaks) |
 ## Greedy
 |  |
