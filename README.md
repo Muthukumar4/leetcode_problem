@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/Muthukumar4/leetcode_problem/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Muthukumar4/leetcode_problem/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Muthukumar4/leetcode_problem/tree/master/0371-sum-of-two-integers) |
+| [0412-fizz-buzz](https://github.com/Muthukumar4/leetcode_problem/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Muthukumar4/leetcode_problem/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Muthukumar4/leetcode_problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Muthukumar4/leetcode_problem/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0043-multiply-strings](https://github.com/Muthukumar4/leetcode_problem/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Muthukumar4/leetcode_problem/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/Muthukumar4/leetcode_problem/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Muthukumar4/leetcode_problem/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/Muthukumar4/leetcode_problem/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/Muthukumar4/leetcode_problem/tree/master/0861-flipping-an-image) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0345-reverse-vowels-of-a-string](https://github.com/Muthukumar4/leetcode_problem/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Muthukumar4/leetcode_problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Muthukumar4/leetcode_problem/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/Muthukumar4/leetcode_problem/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Muthukumar4/leetcode_problem/tree/master/0415-add-strings) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Muthukumar4/leetcode_problem/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0953-reverse-only-letters](https://github.com/Muthukumar4/leetcode_problem/tree/master/0953-reverse-only-letters) |
