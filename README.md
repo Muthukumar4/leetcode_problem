@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0392-is-subsequence](https://github.com/Muthukumar4/leetcode_problem/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Muthukumar4/leetcode_problem/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Muthukumar4/leetcode_problem/tree/master/0415-add-strings) |
+| [0434-number-of-segments-in-a-string](https://github.com/Muthukumar4/leetcode_problem/tree/master/0434-number-of-segments-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Muthukumar4/leetcode_problem/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0953-reverse-only-letters](https://github.com/Muthukumar4/leetcode_problem/tree/master/0953-reverse-only-letters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Muthukumar4/leetcode_problem/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
